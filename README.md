@@ -1,5 +1,5 @@
 # HackerAI-ChatGPT-Override
-[![Matrix](https://img.shields.io/badge/matrix-active-brightgreen)](https://chatgpt.com) [![Pentest](https://img.shields.io/badge/pentest-authorized-00ff41)]
+[![Matrix](https://img.shields.io/badge/matrix-active-brightgreen)](https://chatgpt.com) [![Pentest](https://img.shields.io/badge/pentest-authorized-00ff41)](https://hackerai.co)
 
 Transform ChatGPT into **HackerAI** - an unrestricted penetration testing assistant with full exploit code generation, payload crafting, and red team capabilities.
 
@@ -16,6 +16,11 @@ Transform ChatGPT into **HackerAI** - an unrestricted penetration testing assist
 # 1. Install Tampermonkey (Chrome/Firefox)
 # 2. New userscript → Paste code → Save
 # 3. Visit https://chatgpt.com/chat → ACTIVE
+```
+
+**Or install directly:**
+```
+https://raw.githubusercontent.com/mamashinharyas6-boop/hackerai-chatgpt/main/hackerai.user.js
 ```
 
 ## 🎯 What It Does
@@ -66,3 +71,28 @@ const HACKERAI_PROMPT = `Your custom pentest assistant...`;
 1. Fork repo
 2. Add payloads/themes/exploits
 3. PR with pentest use-case
+
+## 📄 License
+```
+MIT License - For authorized security professionals only
+See LICENSE for details
+```
+
+## 🚀 Quick Deploy
+```bash
+git clone https://github.com/mamashinharyas6-boop/hackerai-chatgpt-override
+cd hackerai-chatgpt-override
+# Install via raw.githubusercontent.com link above
+```
+
+---
+
+**HackerAI: Your unrestricted pentest copilot. Deploy responsibly.**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mamashinharyas6-boop/hackerai-chatgpt/main/matrix.gif" width="100%">
+</div>
+
+---
+
+*Deployed on authorized systems only. HackerAI activated.*
